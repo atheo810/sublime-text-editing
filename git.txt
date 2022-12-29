@@ -3,4 +3,7 @@ ini adalah commit 2
 
 ini commit ke 3
 
+
 ini conflict
+ini commit ke 4 adi
+
