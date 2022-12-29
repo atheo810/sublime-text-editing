@@ -6,3 +6,5 @@ ini commit ke 3
 ini commit ke 4 adi
 
 ini commit ke 5 adi
+ini conflict
+ini commit ke 4 adi
