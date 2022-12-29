@@ -2,3 +2,5 @@ ini adalah contoh commit
 ini adalah commit 2
 
 ini commit ke 3
+
+ini conflict
