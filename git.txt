@@ -1,1 +1,2 @@
 ini adalah contoh commit
+ini adalah commit 2
