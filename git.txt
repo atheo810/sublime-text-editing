@@ -1,1 +1,1 @@
-ini adalah contoh commit pertama
+ini adalah contoh commit
